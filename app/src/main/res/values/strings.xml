@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="titulo" translatable="false">Time S2</string>
+    <string name="footer">Developer by: Paty</string>
+    <string name="hint_nome">Name</string>
+    <string name="idade">Age</string>
+
+    <string name="Selecione">Select</string>
+    <string name="corinthians">Corinthians</string>
+    <string name="santos">Santos</string>
+    <string name="saoPaulo">São Paulo</string>
+    <string name="cadastrar">Register</string>
+
+    <string name="confirmacao_cadastro">\"Hi, %1$s congratulations for wringin %2$s. \"</string>
+</resources>
+
+
